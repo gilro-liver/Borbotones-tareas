@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-##°Ejecuta el siguiente comando para mostrar todas las VM en un proyecto:
-####gcloud compute instances list
-####gcloud compute --help
-=======
+
+
 ## COMANDOS BASICOS DE GCLOUD TAREA3 ##
+
 1.- Ejecuta el siguiente comando para mostrar todas las VM en un proyecto:
-####gcloud compute instances list
+####gcloud compute instances list####
 
+Liga de referencia
 
-https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
-
-
-
-
-
+##https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419##
 
 
 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
