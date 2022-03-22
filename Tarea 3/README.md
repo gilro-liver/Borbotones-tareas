@@ -18,7 +18,7 @@
 
 
 <details>
- Liga de referencia 
+ <summary>Ligas de referencia</summary>
 
 https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
 
