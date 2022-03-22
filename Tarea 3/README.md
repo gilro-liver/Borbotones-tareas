@@ -16,6 +16,13 @@
 
 ***gcloud compute addresses list --global***
 
+3.- Lista buckets disponibles
+
+***gsutil ls***
+
+***gsutil ls gs://***
+
+
 
 <details>
  <summary>Ligas de referencia</summary>
