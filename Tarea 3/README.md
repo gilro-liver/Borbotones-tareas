@@ -6,7 +6,7 @@
 
 ***gcloud compute instances list***
 
-2. Listar IP’s en uso, existentes o reservadas
+2.- Listar IP’s en uso, existentes o reservadas
 
 ***gcloud compute addresses list***
 
