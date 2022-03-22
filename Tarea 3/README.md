@@ -16,9 +16,9 @@
 
 ***gcloud compute addresses list --global***
 
-Liga de referencia
+<div Liga de referencia
 
 https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
 
 
-https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
+https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list </div>
