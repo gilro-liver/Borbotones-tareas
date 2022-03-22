@@ -3,7 +3,7 @@
 ## COMANDOS BASICOS DE GCLOUD TAREA 3 ##
 
 <p align ="center">
-<img src="img/GCP.PNG" width="100">
+<img src="img/GCP.PNG" width="200">
 </p>
 
 1.- Ejecuta el siguiente comando para mostrar todas las VM en un proyecto:
