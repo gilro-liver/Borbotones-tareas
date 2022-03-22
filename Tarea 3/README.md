@@ -6,6 +6,12 @@
 
 ***gcloud compute instances list***
 
+2. Listar IP’s en uso, existentes o reservadas
+
+***gcloud compute addresses list***
+
+***gcloud compute addresses list --global***
+
 Liga de referencia
 
 ## https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419 ##
