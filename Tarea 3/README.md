@@ -10,17 +10,18 @@
 
 ***gcloud compute instances list***
 
-2.- Listar IP’s en uso, existentes o reservadas
+2.- Listar IP’s en uso, existentes o reservadas:
 
 ***gcloud compute addresses list***
 
 ***gcloud compute addresses list --global***
 
-3.- Lista buckets disponibles
+3.- Lista buckets disponibles:
 
 ***gsutil ls***
 
 ***gsutil ls gs://***
+
 
 
 <details>
