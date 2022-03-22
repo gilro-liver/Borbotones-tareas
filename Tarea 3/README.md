@@ -22,6 +22,9 @@
 
 ***gsutil ls gs://***
 
+4.- Listar Service Accounts existentes en un proyecto:
+
+***gcloud iam service-accounts list***
 
 
 <details>
