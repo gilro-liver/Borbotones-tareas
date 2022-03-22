@@ -30,12 +30,16 @@
 <details>
  <summary>Ligas de referencia</summary>
 
+1.-
 https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
 
-
+2.-
 https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 
+3.-
+https://cloud.google.com/storage/docs/gsutil/commands/ls
 
+4.-
 https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 
 </details>
