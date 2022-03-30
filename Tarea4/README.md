@@ -1,23 +1,23 @@
 # Tarea 4 #
-***>Cinthya Santa Rosa Gama***
+***> Cinthya Santa Rosa Gama***
 
 ### LISTA DE PROCESOS REPETITIVOS ###
 
 1.- **_instalación del Agente Control-M_**
 
-2.- desinstalación del Agente de Control-M.
+2.- **_desinstalación del Agente de Control-M_**
 
-3.- Levantar el Agente
+3.- **_ Levantar el Agente_**
 
-4.- Monitoreo del Agente de Control-M
+4.- **_ Monitoreo del Agente de Control-M_**
 
-5.- Instalación de los modulos de Transferencia.
+5.- **_Instalación de los modulos de Transferencia._**
 
-6.- Instalación del modulo de SAP
+6.- **_Instalación del modulo de SAP_**
 
-7.- Instalación del Modulo de BD
+7.- **_Instalación del Modulo de BD_**
 
-8.- Estados de cuenta para Pruebas (que se jalen de un servidor extream al mainframe)
+8.- **_Arhivos .AFP de Estados de cuenta para Pruebas (que se transfieran de un servidor extream al mainframe)_**
 
 9.-
 
