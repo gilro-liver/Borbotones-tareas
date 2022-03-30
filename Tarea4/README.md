@@ -5,29 +5,35 @@
 
 ### LISTA DE PROCESOS REPETITIVOS ###
 
-1.- **_instalación del Agente Control-M_**
+> **_Instalación del Agente Control-M_**
 
-2.- **_desinstalación del Agente de Control-M_**
+2.- **_Desinstalación del Agente de Control-M_**
 
 3.- **_Levantar el Agente_**
 
 4.- **_Monitoreo del Agente de Control-M_**
 
-5.- **_Instalación de los modulos de Transferencia._**
+5.- **_Instalación de los modulos de Transferencia AFT_**
 
-6.- **_Instalación del modulo de SAP_**
+6.- **_Desinstalación del Modulo AFT_**
 
-7.- **_Instalación del Modulo de BD_**
+7.- **_Instalación del modulo de SAP_**
 
-8.- **_Arhivos .AFP de Estados de cuenta para Pruebas (que se transfieran de un servidor extream al mainframe)_**
+8.- **_Desinstalación del modulo SAP_**
 
-9.-
+9.- **_Instalación del Modulo de BD_**
 
-10.-
+11.- **_Desinstalación Modulo BD_**
 
-11.- 
+12.- **_Arhivos .AFP de Estados de cuenta para Pruebas (que se transfieran de un servidor extream al mainframe)_**
 
-12.- 
+13.-
+
+14.-
+
+15.- 
+
+ 
 
 13.-
 
