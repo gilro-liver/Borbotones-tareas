@@ -27,7 +27,7 @@
 
 > **_Arhivos .AFP de Estados de cuenta para Pruebas (que se transfieran de un servidor extream al mainframe)_**
 
-> 
+> **_En los Estados de cuenta Producctivos que los cortes (AFP) no se tuviera que particionar en 4 días, sino que soportara más edos de cuenta, desconozco si se puede hacer._**
 
 >
 
