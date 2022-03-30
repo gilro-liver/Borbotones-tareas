@@ -11,7 +11,7 @@
 
 > **_Levantar el Agente_**
 
-> **_Monitoreo del Agente de Control-M_**
+> **_Monitoreo del Agente de Control-M (status)_**
 
 > **_Instalación de los modulos de Transferencia AFT_**
 
