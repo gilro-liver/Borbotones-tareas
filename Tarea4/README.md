@@ -1,4 +1,6 @@
 # Tarea 4 #
+
+### NOMBRE DEL INTEGRANTE EQUIPO BORBOTONES ###
 ***> Cinthya Santa Rosa Gama***
 
 ### LISTA DE PROCESOS REPETITIVOS ###
@@ -7,9 +9,9 @@
 
 2.- **_desinstalación del Agente de Control-M_**
 
-3.- **_ Levantar el Agente_**
+3.- **_Levantar el Agente_**
 
-4.- **_ Monitoreo del Agente de Control-M_**
+4.- **_Monitoreo del Agente de Control-M_**
 
 5.- **_Instalación de los modulos de Transferencia._**
 
