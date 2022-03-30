@@ -9,7 +9,7 @@
 
 > **_Desinstalación del Agente de Control-M_**
 
-> **_Levantar el Agente_**
+> **_Levantar el Agente de cada servidor_**
 
 > **_Monitoreo del Agente de Control-M (status)_**
 
