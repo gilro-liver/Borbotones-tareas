@@ -1,5 +1,5 @@
 # Tarea 4 #
-***Cinthya Santa Rosa Gama***
+***>Cinthya Santa Rosa Gama***
 
 ### LISTA DE PROCESOS REPETITIVOS ###
 
