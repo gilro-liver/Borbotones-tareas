@@ -1,4 +1,4 @@
-# Tarea 4 #
+# <h1> Tarea 4 </h1> #
 
 ### NOMBRE DEL INTEGRANTE EQUIPO BORBOTONES ###
 ***> Cinthya Santa Rosa Gama***
@@ -59,7 +59,28 @@
 
 > **_Alta de tienda para tipo de cambio._**
  
+** Segundo integrante **
+ <p class=="intro">Marco Antonio Morelos Sánchez  </p>
 
+ <ol start="1" type="1" reversed>
+  <li value="1">Alta de usuarios/funcionales de soporte Active Directory.</li>
+  <li value="2">Baja de usuarios/funcionales de soporte Active Directory.</li>
+  <li value="3">Modificación de usuarios de soporte/funcionales Active Directory.</li>
+  <li value="4">Alta de grupos de soporte Active Directory.</li>
+  <li value="5">Baja de grupos de soporte Active Directory.</li>
+  <li value="6">Instalación de agente 2FA</li>
+  <li value="7">Asignación de permisos de dominio a usuarios de soporte </li>
+  <li value="8">Alta de usuarios de Secure Transport.</li>
+  <li value="9">Baja de usuarios de Secure Transport</li>
+  <li value="10">Actualización de plantillas de evaluación de Hardening.</li>
+  <li value="11">Alta de usuarios genericos en Workspace.</li>
+  <li value="12">Baja de usuarios genericos en Workspace</li>
+  <li value="13">Aplicación de politicas de seguridad a nivel AD y/o Workspace</li>
+  <li value="14">Generación de Servidores AD</li>
+  <li value="15">Depuración de DNS Puerto/Vmware obsoleto</li>
+   <li value="16">Asignación de usuarios de soporte a servidores</li>
+  <li value="17">Bloqueo de dominios  en Workspace</li>    
+</ol>
  
 
 
