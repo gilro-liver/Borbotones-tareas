@@ -60,10 +60,10 @@
 > **_Alta de tienda para tipo de cambio._**
  
 ** Segundo integrante **
+<details>
+ > <summary>Marco Antonio Morelos Sánchez</summary>
 
-*** Marco Antonio Morelos Sánchez ***
-
- > <ol start="1" type="1" reversed>
+  ><ol start="1" type="1" reversed>
   ><li value="1">Alta de usuarios/funcionales de soporte Active Directory.</li>
   ><li value="2">Baja de usuarios/funcionales de soporte Active Directory.</li>
   ><li value="3">Modificación de usuarios de soporte/funcionales Active Directory.</li>
@@ -80,9 +80,10 @@
   ><li value="14">Generación de Servidores AD</li>
   ><li value="15">Depuración de DNS Puerto/Vmware obsoleto</li>
    ><li value="16">Asignación de usuarios de soporte a servidores</li>
-  <li value="17">Bloqueo de dominios  en Workspace</li>    
+  ><li value="17">Bloqueo de dominios  en Workspace</li>    
 </ol>
  
+ </details>
 
 
 
